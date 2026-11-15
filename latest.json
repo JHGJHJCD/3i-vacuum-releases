@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "build": "2026-11-15 fec3036",
+  "commit": "fec30364974beec83fc11054fec3b5ea45df2a08",
+  "file": "3i-vacuum-portable.zip",
+  "size": 18621824,
+  "sha256": "d2804c9402bb8a0b46f4a328564fc3fafb72b1755f5aced29243a9f03c1e67b8",
+  "exe_sha256": "e2030c7e6c367fef45c68e137e187590ea66dcc83c6219f72951573eaf74db38",
+  "notes": "ציור חדרים על המפה, תיקון הקו של המסלול בניקוי שני, וכפתור \"קרא חדרים מהשואב\"."
+}
